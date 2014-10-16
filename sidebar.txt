@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[chx:home|Door43 (chx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-chx|d43-chx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-chx/archive/master.zip|d43-chx.zip]]
+
+**Recent Changes**
+{{changes>ns = chx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/chx|Ethnologue data]]
+
